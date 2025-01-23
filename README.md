@@ -1,4 +1,4 @@
-# AmigoSecreto-challenger Desafío Alura
+# AmigoSecreto Desafío Alura
 
 <p1>Este proyecto contiene funciones para agregar, mostrar lista y sortear amigos en un juego de amigo secreto.</p1>
 
